@@ -1,4 +1,4 @@
 a=10
-b=15
+b=5
 c=a+b
 console.log(c) 
